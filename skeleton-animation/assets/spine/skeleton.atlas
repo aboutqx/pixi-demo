@@ -1,0 +1,103 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 48
+  size: 295, 197
+  orig: 295, 197
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 942, 195
+  size: 27, 6
+  orig: 27, 6
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 773, 157
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 299, 65
+  size: 181, 180
+  orig: 181, 180
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 856, 157
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+youhou1
+  rotate: false
+  xy: 618, 111
+  size: 73, 134
+  orig: 73, 134
+  offset: 0, 0
+  index: -1
+youhou2
+  rotate: false
+  xy: 482, 30
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+youqian1
+  rotate: true
+  xy: 2, 2
+  size: 44, 83
+  orig: 44, 83
+  offset: 0, 0
+  index: -1
+youqian2
+  rotate: true
+  xy: 572, 30
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+zhangzui
+  rotate: false
+  xy: 693, 153
+  size: 78, 92
+  orig: 100, 100
+  offset: 11, 1
+  index: -1
+zuohou1
+  rotate: false
+  xy: 482, 97
+  size: 134, 148
+  orig: 134, 148
+  offset: 0, 0
+  index: -1
+zuohou2
+  rotate: true
+  xy: 942, 203
+  size: 42, 80
+  orig: 42, 80
+  offset: 0, 0
+  index: -1
+zuoqian1
+  rotate: false
+  xy: 856, 170
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+zuoqian2
+  rotate: true
+  xy: 693, 117
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
